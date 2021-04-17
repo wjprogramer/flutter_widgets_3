@@ -1,16 +1,13 @@
 # flutter_widgets_3
 
-A new Flutter application.
+> My Flutter Widget Practice
+> Edited From [FlutterUnit](https://github.com/toly1994328/FlutterUnit) ([LICENSE](https://github
+.com/toly1994328/FlutterUnit/blob/master/LICENSE))
+> Last referencing commit: 8a9f97cbf460ce245a8be402d5a9709bdaf6ec3d [8a9f97c] (2020-05-10 09:53:31)
 
-## Getting Started
+## Resource
 
-This project is a starting point for a Flutter application.
+All images are assigned to the public domain
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Kenny / OpenGameArt](https://opengameart.org/users/kenney?page=1)
+- [Art Game Mountains Nature](https://www.pexels.com/photo/art-game-mountains-nature-92118/)
